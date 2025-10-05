@@ -1,0 +1,9 @@
+# Simple Python Calculator
+
+A beginner-friendly calculator program built with Python.
+
+## Features
+- Addition, subtraction, multiplication, and division
+- Handles division by zero gracefully
+- Uses functions and formatted strings
+
